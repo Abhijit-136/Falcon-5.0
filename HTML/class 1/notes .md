@@ -20,4 +20,4 @@
 - <head> - head section
 - <title> - Title of the page
 - <body> -  body section
-- <title>- 
+- <title>- Heading section

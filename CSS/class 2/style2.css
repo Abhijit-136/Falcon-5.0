@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing: border-box;
+}
+#head{
+    color: black;
+    text-align: center;
+    background-color: silver;
+     margin-left: 150px; 
+    margin-right: 150px; 
+    border: solid 5px ;
+    
+}
+#container{
+    max-width: 800px;
+    background: black;
+    border: 5px dotted purple;
+    margin: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+   text-align: center;
+   padding: 30px 10px;
+   
+   
+}
+#red{
+    background: red;
+    margin-left: 300px;
+    border-radius: 500px;
+
+    
+}
+#yellow{
+    background: yellow;
+    margin-left: 300px;
+    border-radius: 500px;
+
+}
+#green{
+    background: green;
+    margin-left: 300px;
+    border-radius: 500px;
+   
+
+}
+
